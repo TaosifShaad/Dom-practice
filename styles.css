@@ -1,0 +1,34 @@
+header {
+    height: 500px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+.subject {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    color: rgb(235, 113, 14);
+    padding-top: 100px;
+}
+
+.description {
+    margin: 15px 100px;
+    ;
+}
+
+.veratti-img {
+    height: 160px;
+}
+
+.marquinos-img {
+    height: 160px;
+}
+
+.disable{
+  background-color: grey !important;
+  border-color: grey !important;
+}
